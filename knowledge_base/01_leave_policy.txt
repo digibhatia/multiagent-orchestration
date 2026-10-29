@@ -1,0 +1,52 @@
+NCS TELCO+ LEAVE POLICY
+Document ID: NCS-HR-POL-01 | Version: 2.3 | Effective Date: 1 April 2026
+Classification: Internal HR Policy (Training Sample Data)
+
+1. PURPOSE
+This policy defines the types of leave available to all NCS Telco+ employees,
+the entitlement for each, and the process for applying.
+
+2. TYPES OF LEAVE AND ANNUAL ENTITLEMENT
+
+2.1 Casual Leave (CL)
+Every employee is entitled to 12 casual leave days per calendar year, credited
+at 1 day per completed month of service. Casual leave cannot be carried forward
+to the next year and cannot be encashed. A maximum of 3 consecutive casual
+leave days may be taken at a time without special approval from the reporting
+manager.
+
+2.2 Sick Leave (SL)
+Employees receive 10 sick leave days per calendar year. Sick leave for more
+than 2 consecutive days requires a medical certificate to be submitted to HR
+within 3 working days of returning to work. Unused sick leave may be carried
+forward up to a maximum of 15 days.
+
+2.3 Earned Leave (EL) / Privilege Leave
+Employees accrue 1.5 days of earned leave per completed month of service
+(18 days per year). Earned leave must be applied for at least 5 working days
+in advance through the HR portal and requires reporting manager approval.
+Up to 30 days of earned leave may be carried forward to the following year;
+any balance beyond that is lapsed at year-end unless a written exception is
+approved by the HR Head.
+
+2.4 Maternity and Paternity Leave
+Maternity leave is granted for 26 weeks as per the Maternity Benefit Act,
+applicable to the first two children. Paternity leave is granted for 2 weeks,
+to be availed within 3 months of the child's birth.
+
+3. HOW TO APPLY
+All leave (except emergency sick leave) must be applied through the HR portal
+at least 2 working days in advance. Emergency sick leave should be
+communicated to the reporting manager by phone or message on the same day,
+with the formal portal entry completed within 48 hours.
+
+4. UNAUTHORISED ABSENCE
+Any absence not covered by an approved leave application or without prior
+communication to the reporting manager for more than 2 consecutive working
+days will be treated as unauthorised absence and may be subject to
+disciplinary action under the Code of Conduct policy.
+
+5. CONTACT
+For any leave-related queries not covered here, employees should contact the
+HR Helpdesk at hr.helpdesk@ncstelcoplus-sample.com (fictional address for
+training purposes).

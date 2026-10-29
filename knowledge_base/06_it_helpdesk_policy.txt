@@ -1,0 +1,31 @@
+NCS TELCO+ IT HELPDESK & ACCESS POLICY
+Document ID: NCS-IT-POL-06 | Version: 1.8 | Effective Date: 1 May 2026
+Classification: Internal IT Policy (Training Sample Data)
+
+1. PURPOSE
+This policy explains how employees get IT support, reset passwords and
+request access to systems.
+
+2. RAISING A TICKET
+2.1 All IT issues must be raised through the IT Service Portal or by emailing
+the IT helpdesk. Phone support is available only for Priority 1 issues
+(complete loss of network or email access).
+2.2 Target response times: Priority 1 within 30 minutes, Priority 2 within 4
+working hours, Priority 3 within 2 working days.
+
+3. PASSWORDS
+3.1 Passwords must be at least 12 characters and changed every 90 days.
+3.2 Passwords can be reset by the employee through the self-service portal
+after multi-factor verification. If MFA is lost, the employee must raise a
+Priority 2 ticket with manager approval.
+3.3 Passwords must never be shared, written down or stored in plain text files.
+
+4. VPN AND REMOTE ACCESS
+4.1 VPN is mandatory when accessing internal systems from outside an NCS
+Telco+ office. Split tunnelling is not permitted.
+4.2 VPN access is granted automatically on joining. A lost or reset VPN
+token needs a Priority 3 ticket.
+
+5. SOFTWARE REQUESTS
+5.1 Only software from the approved catalogue may be installed. Requests for
+other software need security review and take up to 5 working days.

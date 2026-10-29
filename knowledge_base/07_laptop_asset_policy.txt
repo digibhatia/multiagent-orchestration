@@ -1,0 +1,24 @@
+NCS TELCO+ LAPTOP & ASSET POLICY
+Document ID: NCS-IT-POL-07 | Version: 1.2 | Effective Date: 1 May 2026
+Classification: Internal IT Policy (Training Sample Data)
+
+1. ELIGIBILITY AND REFRESH
+1.1 Every full-time employee receives one company laptop on joining.
+1.2 Laptops are refreshed every 4 years, or earlier if the device fails
+hardware diagnostics. Developers may request a higher-spec model with
+manager approval.
+
+2. LOSS, THEFT AND DAMAGE
+2.1 A lost or stolen laptop must be reported to the IT helpdesk and the
+security team within 24 hours. A police complaint is required for theft.
+2.2 Accidental damage is covered once per refresh cycle. A second incident
+may result in a recovery charge decided by the department head.
+
+3. DATA AND ENCRYPTION
+3.1 All laptops use full-disk encryption. Disabling it is a policy violation.
+3.2 Client confidential data must not be copied to personal USB drives or
+personal cloud storage.
+
+4. RETURN ON EXIT
+4.1 All assets must be returned on or before the last working day. Final
+settlement is released only after the IT clearance is complete.

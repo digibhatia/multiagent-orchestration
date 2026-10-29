@@ -1,0 +1,48 @@
+NCS TELCO+ WORK-FROM-HOME AND HYBRID WORK POLICY
+Document ID: NCS-HR-POL-02 | Version: 1.4 | Effective Date: 1 January 2026
+Classification: Internal HR Policy (Training Sample Data)
+
+1. PURPOSE
+This policy defines eligibility and rules for hybrid and remote working
+arrangements across NCS Telco+ engineering, delivery, and support teams.
+
+2. STANDARD HYBRID MODEL
+All employees in eligible roles follow a hybrid model of 3 days in-office
+and 2 days work-from-home per week. In-office days are Tuesday, Wednesday,
+and Thursday by default, unless a project-specific schedule is agreed with
+the reporting manager and communicated to the team in advance.
+
+3. FULL-TIME REMOTE WORK
+Full-time (5 days/week) remote work is NOT available as a standard option.
+Exceptions may be granted only for: (a) documented medical requirements
+verified by HR, (b) employees relocating for a spouse's employment with
+manager and HR Head approval, or (c) roles explicitly designated as
+"remote-first" at the time of hiring. All exceptions must be reviewed
+every 6 months.
+
+4. NEW JOINEE REQUIREMENT
+Employees within their first 3 months of joining (probation period) are
+required to work from office 4 days per week, to support onboarding,
+mentorship, and team integration. The standard 3-day hybrid model applies
+from month 4 onward, subject to satisfactory probation review.
+
+5. EQUIPMENT AND INFRASTRUCTURE
+NCS Telco+ provides a laptop and a one-time home-office setup allowance of
+₹15,000 for employees in eligible hybrid roles, claimable through the
+Travel & Reimbursement process within the first 60 days of eligibility.
+A minimum internet speed of 50 Mbps is required for remote work days;
+employees are responsible for their own internet connectivity.
+
+6. CORE COLLABORATION HOURS
+Regardless of location, all employees must be available and responsive
+between 10:00 AM and 4:00 PM IST on any working day, to support
+cross-team collaboration and client calls.
+
+7. MANAGER DISCRETION
+Reporting managers may require additional in-office days during critical
+project phases (e.g., go-live weeks, client audits), with at least 3
+working days' notice to the team.
+
+8. CONTACT
+For hybrid work eligibility questions, contact your reporting manager first,
+then escalate to HR Business Partner if unresolved.
